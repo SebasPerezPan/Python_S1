@@ -1,0 +1,358 @@
+Área;Año;No. Muertes;Nacidos vivos;Tasa
+Usaquén;2007;77;5.949;12,9
+Chapinero;2007;21;1.808;11,6
+Santa Fe;2007;49;2.231;22
+San Cristóbal;2007;136;8.016;17
+Usme;2007;110;6.350;17,3
+Tunjuelito;2007;36;3.747;9,6
+Bosa;2007;154;10.057;15,3
+Kennedy;2007;226;15.171;14,9
+Fontibón;2007;73;5.364;13,6
+Engativá;2007;178;12.057;14,8
+Suba;2007;230;15.608;14,7
+Barrios Unidos;2007;26;1.828;14,2
+Teusaquillo;2007;23;1.217;18,9
+Los Mártires;2007;21;1.489;14,1
+Antonio Nariño;2007;17;1.191;14,3
+Puente Aranda;2007;54;4.051;13,3
+La Candelaria;2007;6;231;26
+Rafael Uribe Uribe;2007;120;6.836;17,6
+Ciudad Bolívar;2007;203;11.588;17,5
+Sumapaz;2007;2;50;40
+Distrito;2007;1.850;117.228;13,8
+Usaquén;2008;83;6.433;12,9
+Chapinero;2008;15;1.756;8,5
+Santa Fe;2008;35;2.080;16,8
+San Cristóbal;2008;140;7.645;18,3
+Usme;2008;96;6.580;14,6
+Tunjuelito;2008;52;3.746;13,9
+Bosa;2008;150;11.111;13,5
+Kennedy;2008;235;16.257;14,5
+Fontibón;2008;80;5.060;15,8
+Engativá;2008;137;11.490;11,9
+Suba;2008;219;15.699;13,9
+Barrios Unidos;2008;25;1.735;14,4
+Teusaquillo;2008;19;1.290;14,7
+Los Mártires;2008;29;1.433;20,2
+Antonio Nariño;2008;16;1.249;12,8
+Puente Aranda;2008;59;3.769;15,7
+La Candelaria;2008;8;324;24,7
+Rafael Uribe Uribe;2008;112;7.125;15,7
+Ciudad Bolívar;2008;183;11.961;15,3
+Sumapaz;2008;;59;0
+Distrito;2008;1.792;117.563;15,2
+Usaquén;2009;53;6.449;8,2
+Chapinero;2009;26;1.873;13,9
+Santa Fe;2009;31;1.854;16,7
+San Cristóbal;2009;127;7.771;16,3
+Usme;2009;109;6.617;16,5
+Tunjuelito;2009;34;3.588;9,5
+Bosa;2009;124;10.964;11,3
+Kennedy;2009;176;16.023;11
+Fontibón;2009;74;4.994;14,8
+Engativá;2009;150;11.287;13,3
+Suba;2009;202;15.723;12,8
+Barrios Unidos;2009;31;1.744;17,8
+Teusaquillo;2009;20;1.359;14,7
+Los Mártires;2009;18;1.330;13,5
+Antonio Nariño;2009;13;1.298;10
+Puente Aranda;2009;38;3.454;11
+La Candelaria;2009;4;336;11,9
+Rafael Uribe Uribe;2009;95;6.763;14
+Ciudad Bolívar;2009;198;11.622;17
+Sumapaz;2009;1;43;23,3
+Distrito;2009;1.595;115.659;13,8
+Usaquén;2010;55;6.339;8,7
+Chapinero;2010;17;2.135;8
+Santa Fe;2010;28;1.701;16,5
+San Cristóbal;2010;99;7.379;13,4
+Usme;2010;86;6.103;14,1
+Tunjuelito;2010;34;3.279;10,4
+Bosa;2010;152;10.641;14,3
+Kennedy;2010;196;15.705;12,5
+Fontibón;2010;58;4.654;12,5
+Engativá;2010;122;10.564;11,5
+Suba;2010;201;14.680;13,7
+Barrios Unidos;2010;35;1.677;20,9
+Teusaquillo;2010;13;1.235;10,5
+Los Mártires;2010;25;1.260;19,8
+Antonio Nariño;2010;20;1.133;17,7
+Puente Aranda;2010;37;3.143;11,8
+La Candelaria;2010;5;384;13
+Rafael Uribe Uribe;2010;91;6.209;14,7
+Ciudad Bolívar;2010;166;11.141;14,9
+Sumapaz;2010;;35;0
+Distrito;2010;1.512;110.032;13,7
+Usaquén;2011;52;5.885;8,8
+Chapinero;2011;29;1.885;15,4
+Santa Fe;2011;34;1.554;21,9
+San Cristóbal;2011;111;6.909;16,1
+Usme;2011;83;6.097;13,6
+Tunjuelito;2011;33;3.105;10,6
+Bosa;2011;150;10.432;14,4
+Kennedy;2011;187;15.344;12,2
+Fontibón;2011;55;4.390;12,5
+Engativá;2011;126;10.207;12,3
+Suba;2011;177;14.436;12,3
+Barrios Unidos;2011;25;1.780;14
+Teusaquillo;2011;17;1.338;12,7
+Los Mártires;2011;18;1.211;14,9
+Antonio Nariño;2011;19;1.305;14,6
+Puente Aranda;2011;31;3.172;9,8
+La Candelaria;2011;7;305;23
+Rafael Uribe Uribe;2011;97;5.964;16,3
+Ciudad Bolívar;2011;162;10.774;15
+Sumapaz;2011;;18;0
+Distrito;2011;1.463;106.228;13,8
+Usaquén;2012;56;6.226;9
+Chapinero;2012;22;2.082;10,6
+Santa Fe;2012;26;1.688;15,4
+San Cristóbal;2012;106;6.491;16,3
+Usme;2012;91;6.006;15,2
+Tunjuelito;2012;44;2.931;15
+Bosa;2012;141;10.393;13,6
+Kennedy;2012;202;15.621;12,9
+Fontibón;2012;50;4.427;11,3
+Engativá;2012;115;9.631;11,9
+Suba;2012;174;14.448;12
+Barrios Unidos;2012;17;1.679;10,1
+Teusaquillo;2012;21;1.218;17,2
+Los Mártires;2012;23;1.302;17,7
+Antonio Nariño;2012;16;1.120;14,3
+Puente Aranda;2012;31;3.042;10,2
+La Candelaria;2012;2;387;5,2
+Rafael Uribe Uribe;2012;76;5.777;13,2
+Ciudad Bolívar;2012;166;10.757;15,4
+Sumapaz;2012;1;44;22,7
+Distrito;2012;1.429;105.314;13,6
+Usaquén;2013;69;5.969;11,6
+Chapinero;2013;25;1.969;12,7
+Santa Fe;2013;26;1.688;15,4
+San Cristóbal;2013;76;6.129;12,4
+Usme;2013;73;5.577;13,1
+Tunjuelito;2013;26;2.926;8,9
+Bosa;2013;114;10.109;11,3
+Kennedy;2013;182;15.227;12
+Fontibón;2013;41;4.380;9,4
+Engativá;2013;99;9.524;10,4
+Suba;2013;157;14.694;10,7
+Barrios Unidos;2013;25;1.702;14,7
+Teusaquillo;2013;17;1.357;12,5
+Los Mártires;2013;17;1.215;14
+Antonio Nariño;2013;14;1.341;10,4
+Puente Aranda;2013;28;3.079;9,1
+La Candelaria;2013;3;379;7,9
+Rafael Uribe Uribe;2013;62;5.797;10,7
+Ciudad Bolívar;2013;123;10.070;12,2
+Sumapaz;2013;;41;0
+Distrito;2013;1.228;103.237;11,9
+Usaquén;2014;62;6.046;10,3
+Chapinero;2014;22;1.937;11,4
+Santa Fe;2014;21;1.641;12,8
+San Cristóbal;2014;86;6.296;13,7
+Usme;2014;72;5.334;13,5
+Tunjuelito;2014;32;2.783;11,5
+Bosa;2014;128;9.886;12,9
+Kennedy;2014;157;15.065;10,4
+Fontibón;2014;46;4.395;10,5
+Engativá;2014;94;10.061;9,3
+Suba;2014;169;14.833;11,4
+Barrios Unidos;2014;20;1.634;12,2
+Teusaquillo;2014;12;1.487;8,1
+Los Mártires;2014;12;1.281;9,4
+Antonio Nariño;2014;12;1.280;9,4
+Puente Aranda;2014;28;3.183;8,8
+La Candelaria;2014;5;414;12,1
+Rafael Uribe Uribe;2014;59;5.504;10,7
+Ciudad Bolívar;2014;125;10.563;11,8
+Sumapaz;2014;1;35;28,6
+Distrito;2014;1.208;103.842;11,6
+Usaquén;2015;61;6.366;9,6
+Chapinero;2015;16;1.927;8,3
+Santa Fe;2015;17;1.540;11
+San Cristóbal;2015;72;6.028;11,9
+Usme;2015;59;5.471;10,8
+Tunjuelito;2015;26;2.709;9,6
+Bosa;2015;85;10.436;8,1
+Kennedy;2015;164;15.009;10,9
+Fontibón;2015;55;4.262;12,9
+Engativá;2015;97;9.381;10,3
+Suba;2015;149;14.825;10,1
+Barrios Unidos;2015;12;1.572;7,6
+Teusaquillo;2015;10;1.302;7,7
+Los Mártires;2015;10;1.171;8,5
+Antonio Nariño;2015;11;1.195;9,2
+Puente Aranda;2015;22;3.084;7,1
+La Candelaria;2015;3;344;8,7
+Rafael Uribe Uribe;2015;50;5.379;9,3
+Ciudad Bolívar;2015;121;10.321;11,7
+Sumapaz;2015;0;37;0
+Distrito;2015;1.088;102.778;10,6
+Usaquén;2016;50;6.226;8
+Chapinero;2016;12;2.045;5,9
+Santa Fe;2016;18;1.363;13,2
+San Cristóbal;2016;65;5.788;11,2
+Usme;2016;65;5.509;11,8
+Tunjuelito;2016;35;2.618;13,4
+Bosa;2016;105;10.071;10,4
+Kennedy;2016;149;14.139;10,5
+Fontibón;2016;32;4.213;7,6
+Engativá;2016;101;8.804;11,5
+Suba;2016;156;13.748;11,3
+Barrios Unidos;2016;16;1.555;10,3
+Teusaquillo;2016;8;1.249;6,4
+Los Mártires;2016;14;1.094;12,8
+Antonio Nariño;2016;19;1.225;15,5
+Puente Aranda;2016;26;2.849;9,1
+La Candelaria;2016;2;261;7,7
+Rafael Uribe Uribe;2016;55;5.382;10,2
+Ciudad Bolívar;2016;138;9.788;14,1
+Sumapaz;2016;;22;0
+Distrito;2016;1.106;98.653;11,2
+Usaquén;2017;49;5.931;8,3
+Chapinero;2017;11;1.971;5,6
+Santa Fe;2017;26;1.571;16,5
+San Cristóbal;2017;71;5.213;13,6
+Usme;2017;63;5.206;12,1
+Tunjuelito;2017;39;2.419;16,1
+Bosa;2017;97;9.425;10,3
+Kennedy;2017;150;13.364;11,2
+Fontibón;2017;50;3.774;13,2
+Engativá;2017;90;8.177;11
+Suba;2017;146;13.254;11
+Barrios Unidos;2017;10;1.452;6,9
+Teusaquillo;2017;15;1.194;12,6
+Los Mártires;2017;15;1.041;14,4
+Antonio Nariño;2017;8;1.026;7,8
+Puente Aranda;2017;26;2.431;10,7
+La Candelaria;2017;8;338;23,7
+Rafael Uribe Uribe;2017;49;4.686;10,5
+Ciudad Bolívar;2017;94;9.362;10
+Sumapaz;2017;0;19;0
+Distrito;2017;1.028;92.054;11,2
+Usaquén;2018;54;5.482;9,9
+Chapinero;2018;21;1.657;12,7
+Santa Fe;2018;23;1.533;15
+San Cristóbal;2018;60;4.669;12,9
+Usme;2018;69;4.972;13,9
+Tunjuelito;2018;17;2.314;7,3
+Bosa;2018;72;9.108;7,9
+Kennedy;2018;124;12.357;10
+Fontibón;2018;32;3.711;8,6
+Engativá;2018;91;7.990;11,4
+Suba;2018;119;12.118;9,8
+Barrios Unidos;2018;11;1.338;8,2
+Teusaquillo;2018;13;1.187;11
+Los Mártires;2018;16;1.082;14,8
+Antonio Nariño;2018;9;918;9,8
+Puente Aranda;2018;25;2.288;10,9
+La Candelaria;2018;3;250;12
+Rafael Uribe Uribe;2018;44;4.626;9,5
+Ciudad Bolívar;2018;119;9.379;12,7
+Sumapaz;2018;0;34;0
+Distrito;2018;943;87.191;10,8
+Usaquén;2019;32;5.228;6
+Chapinero;2019;26;1.613;16
+Santa Fe;2019;23;1.685;14
+San Cristóbal;2019;61;4.341;14
+Usme;2019;55;4.706;12
+Tunjuelito;2019;32;2.196;15
+Bosa;2019;103;8.953;12
+Kennedy;2019;122;11.883;10
+Fontibón;2019;34;3.546;10
+Engativá;2019;93;7.699;12
+Suba;2019;130;11.974;11
+Barrios Unidos;2019;17;1.270;13
+Teusaquillo;2019;13;1.283;10
+Los Mártires;2019;14;1.308;11
+Antonio Nariño;2019;11;951;12
+Puente Aranda;2019;26;2.410;11
+La Candelaria;2019;;281;0
+Rafael Uribe Uribe;2019;56;4.578;12
+Ciudad Bolívar;2019;107;9.016;12
+Sumapaz;2019;;27;0
+Distrito;2019;974;85.075;11,4
+Usaquén;2020;29;4.564;6,4
+Chapinero;2020;14;1.422;9,8
+Santa Fe;2020;13;1.511;8,6
+San Cristóbal;2020;49;4.156;11,8
+Usme;2020;46;4.419;10,4
+Tunjuelito;2020;16;2.048;7,8
+Bosa;2020;74;8.508;8,7
+Kennedy;2020;106;10.916;9,7
+Fontibón;2020;26;3.117;8,3
+Engativá;2020;69;7.036;9,8
+Suba;2020;90;11.250;8
+Barrios Unidos;2020;14;1.276;11
+Teusaquillo;2020;12;1.093;11
+Los Mártires;2020;11;1.207;9,1
+Antonio Nariño;2020;8;995;8
+Puente Aranda;2020;30;2.247;13,4
+La Candelaria;2020;2;236;8,5
+Rafael Uribe Uribe;2020;41;4.436;9,2
+Ciudad Bolívar;2020;106;8.731;12,1
+Sumapaz;2020;1;38;26,3
+Distrito;2020;766;79.322;9,7
+Usaquén;2021;35;4.146;8,4
+Chapinero;2021;11;1.261;8,7
+Santa Fe;2021;11;1.244;8,8
+San Cristóbal;2021;44;3.589;12,3
+Usme;2021;50;3.810;13,1
+Tunjuelito;2021;13;1.727;7,5
+Bosa;2021;79;7.077;11,2
+Kennedy;2021;72;9.187;7,8
+Fontibón;2021;21;2.694;7,8
+Engativá;2021;64;5.619;11,4
+Suba;2021;82;9.547;8,6
+Barrios Unidos;2021;13;972;13,4
+Teusaquillo;2021;14;819;17,1
+Los Mártires;2021;16;1.039;15,4
+Antonio Nariño;2021;9;792;11,4
+Puente Aranda;2021;24;1.906;12,6
+La Candelaria;2021;2;179;11,2
+Rafael Uribe Uribe;2021;34;3.621;9,4
+Ciudad Bolívar;2021;88;7.622;11,5
+Sumapaz;2021;0;35;0
+Distrito;2021;690;66.988;10,3
+Usaquén;2022;49;4.194;11,7
+Chapinero;2022;7;1201;5,8
+Santa Fe;2022;13;1145;11,4
+San Cristóbal;2022;34;3.276;10,4
+Usme;2022;55;3.557;15,5
+Tunjuelito;2022;19;1575;12,1
+Bosa;2022;96;6.690;14,3
+Kennedy;2022;110;9.014;12,2
+Fontibón;2022;29;2.733;10,6
+Engativá;2022;61;5.726;10,7
+Suba;2022;94;9.495;9,9
+Barrios Unidos;2022;13;1008;12,9
+Teusaquillo;2022;9;953;9,4
+Los Mártires;2022;14;932;15,0
+Antonio Nariño;2022;12;743;16,2
+Puente Aranda;2022;22;1812;12,1
+La Candelaria;2022;1;196;5,1
+Rafael Uribe Uribe;2022;33;3.499;9,4
+Ciudad Bolívar;2022;101;6.943;14,5
+Sumapaz;2022;1;23;43,5
+Distrito;2022;775;64.765;12,0
+Usaquén;2023p;39;3970;9,8
+Chapinero;2023p;12;1189;10,1
+Santa Fe;2023p;18;1063;16,9
+San Cristóbal;2023p;24;2909;8,3
+Usme;2023p;38;3243;11,7
+Tunjuelito;2023p;12;1430;8,4
+Bosa;2023p;59;6189;9,5
+Kennedy;2023p;100;8314;12,0
+Fontibón;2023p;26;2653;9,8
+Engativá;2023p;52;5765;9,0
+Suba;2023p;72;9119;7,9
+Barrios Unidos;2023p;11;910;12,1
+Teusaquillo;2023p;6;881;6,8
+Los Mártires;2023p;20;927;21,6
+Antonio Nariño;2023p;6;722;8,3
+Puente Aranda;2023p;21;1745;12,0
+La Candelaria;2023p;0;168;0,0
+Rafael Uribe Uribe;2023p;35;3246;10,8
+Ciudad Bolívar;2023p;69;6389;10,8
+Sumapaz;2023p;0;30;0,0
+Distrito;2023p;645;60883;10,6
