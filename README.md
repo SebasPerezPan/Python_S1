@@ -1,3 +1,3 @@
-# Python_S1
-# Python_S1
-# Python_S1
+## Temas tocados: 
+
+## Matrices, ciclos for, while. Condicionales. Inputs. Tipos de datos.
